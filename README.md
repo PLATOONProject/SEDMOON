@@ -9,6 +9,6 @@ This project contains the sources of the PLATOON semantic data models and the on
 
 Contacts:
 
-Sarra BEN ABBES: sarra.ben-abbbes@external.engie.com
-Lynda TEMAL: lynda.temal@engie.com
-Oumy SEYE: oumy.seye@external.engie.com
+Sarra BEN ABBES: benabbessarra@gmail.com
+Lynda TEMAL: lynda.temal@gmail.com
+Oumy SEYE: oumy.seye@gmail.com
